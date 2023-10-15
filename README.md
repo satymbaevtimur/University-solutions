@@ -30,7 +30,7 @@ Employee attributes:
 - age – his/her age, (public)
 - gender – the gender of employee
 
-Functions:
+### Functions:
 
 - getters and setters
 
